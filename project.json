@@ -1,0 +1,10 @@
+{
+    "project": {
+        "full_name": "Fusée intergalactique",
+        "slug": "myworkshop-fun",
+        "short_description": "Un projet de démo",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Quelques mots sur le projet : le contexte, son histoire, etc. ..."
+    }
+}
